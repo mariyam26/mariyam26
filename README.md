@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Velieva Mariyam. I'm 16 years old girl programmer.
+- 👋 Hi, my name is Velieva Maryam. I'm 16 years old girl programmer.
 - 👀 I’m interested in coding, but at the same time i wanna be a lawher in future it's my dreamjob. In addition, i love to learn languages, now i'm able to speak pn 5 languages, trying to reach more! :)
 - 🌱 I’m currently learning JavaScript, but i already know Python.
 - 💞️ I’m looking to collaborate on some projects, such as games or creating websites.
